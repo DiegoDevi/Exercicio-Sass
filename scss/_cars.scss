@@ -1,0 +1,12 @@
+.cars {
+    h2 {
+        color: $color-secondary;
+    }
+    li {
+        color: $color-subtle;
+
+        a {
+            background-color: $color-default;
+        }
+    }
+}
